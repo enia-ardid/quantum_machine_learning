@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.env
+.env.*
+data/
+*.pkl
+*.pickle
+*.npz
+*.npy
+*.pt
+*.pth
+outputs/
